@@ -1,0 +1,38 @@
+index.html
+print ("hello")
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>Mening profilim</title>
+</head>
+<style > 
+body {text-align:center ;} </style>
+  <p> bu 1 saytim yesli shto</p>
+ <a href="https://t.me/@WHYAMEHUH">telegram </a>
+ </a>
+<div> 
+<p> holasen</p>
+<a href="https://instagram.com"
+ style ="color:purple;"  >instagram
+</a>
+<div style = "text-align:center;">
+<p> mana yana </p>
+<a href = "https://www.youtube.com"
+style = "color:black;">youtube
+</a>
+</div>
+</div>
+<div> 
+<p>mayli yana bita </p>
+<a href= "https://www.dreamstime.com/photos-images/picuter.html"
+style = "color: green;">xz</a>
+</div>
+<br>
+<br>
+<h1>kirish sahifa </h1>
+<input type="text" placeholder="email"> <br><br>
+<input type ="password"placeholder="parol">
+<br><br>
+<a></a><button>kirish</button>
+</body>
+</html>
